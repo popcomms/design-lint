@@ -1,4 +1,4 @@
-# Design Lint
+# Pocket Lint - Popcomms version of Design Lint
 
 ![Design Lint Gif Example](https://github.com/destefanis/design-lint/blob/master/assets/lint-example.gif)
 
